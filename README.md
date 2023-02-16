@@ -1,2 +1,8 @@
-# invertir_numero_4digitos
-programa para invertir un numero de 4 digitos. Ej.Si ingresa 1234 devuelve 4321
+# INVERTIR NUMEROS
+Programa para convertir una cantidad dada de grados centigrados a su equivalente en Farenheit y Kelvin
+
+# Diseño 
+
+## Diagrama de flujo 
+
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
